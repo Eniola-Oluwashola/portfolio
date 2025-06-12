@@ -6,7 +6,7 @@ With a suite of experience and expertise spanning data analytics, data & market 
 
 ## ACHIEVEMENT
 
-*- Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria.
+- Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria.
 
 - Delivered a nationwide market research project with a new entrant (CHLOE Diaper) into the disposable diaper industry (Surveyed 350 wholesales stores, 750 retail stores, 100 Key-In-depth Interviews, 25 Focus Group Discussions) across key cities in Nigeria.
 
@@ -18,7 +18,7 @@ With a suite of experience and expertise spanning data analytics, data & market 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of DATAHOUSE-NG, I provide consulting and training services for organizations, businesses, executives, individuals and mentor aspiring analysts.*
+As the Chief Analyst of DATAHOUSE-NG, I provide consulting and training services for organizations, businesses, executives, individuals and mentor aspiring analysts.
 
 **- Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -196,23 +196,4 @@ By utilizing Kobo Toolbox with our branded data collectors, we improve the effic
     <tr>
       <td>📍</td>
       <td>Lagos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://eniola-oluwashola.github.io/portfolio/docs/Profile.pdf">
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="www.linkedin.com/in/eniola-oluwashola-mcda-mnim-acipurs-ba9a1b232">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-    </tr>
-  </tbody>
-</table>
-
    
-
-
-
-

@@ -2,7 +2,7 @@
 ## ABOUT ME
 
 Hello! I'm Eniola Oluwashola, a professional data analyst, educator, data researcher, data aggregator, data collector, and a data consultant. 
-With a suite of experience and expertise spanning data analytics, data & market research, data collection & aggregation (Kobo Toolbox Expertise), mobile data collection using KoBoToolBox, I have delivered data projects consulting for FMCGs, businesses & organizations.
+With a suite of experience and expertise spanning data analytics, data & market research, data collection & aggregation (Kobo Toolbox Expertise), mobile data collection using KoBoToolBox, I have delivered data projects & consulting for FMCGs, businesses & organizations.
 
 ## ACHIEVEMENT
 

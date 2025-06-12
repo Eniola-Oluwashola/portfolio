@@ -196,8 +196,3 @@ By utilizing Kobo Toolbox with our branded data collectors, we improve the effic
     <tr>
       <td>📍</td>
       <td>Lagos, Nigeria</td> 
-       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/eniola-oluwashola-mcda-mnim-acipurs-ba9a1b232/">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-   

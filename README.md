@@ -57,7 +57,7 @@ As a data analyst, I was tasked with working on a healthcare dataset to develop 
 This dashboard is designed to deliver actionable insights into patient demographics, health conditions, trends in admissions, and enhancing overall operational efficiency by 75%.
 
 
-[Read More](In creating an interactive Excel dashboard for analyzing key healthcare metrics, I followed a structured approach:
+In creating an interactive Excel dashboard for analyzing key healthcare metrics, I followed a structured approach:
 
 1- Data Collection and Preparation: I acquired a healthcare dataset with relevant information, performed data cleaning to ensure accuracy, and transformed the data for analysis by categorizing health conditions and creating calculated metrics.
 
@@ -71,7 +71,7 @@ This dashboard is designed to deliver actionable insights into patient demograph
 
 6- Finalization and Presentation: I created documentation for user navigation and presented the final dashboard to stakeholders, demonstrating its features and utility in making data-driven decisions.
 
-Through this methodical process, I successfully developed a dashboard that provides valuable insights into patient demographics, health conditions, and admission trends, ultimately enhancing decision-making in healthcare management.)
+Through this methodical process, I successfully developed a dashboard that provides valuable insights into patient demographics, health conditions, and admission trends, ultimately enhancing decision-making in healthcare management.
 
 **The Aventa Group Transactional Metrics Analysis.**
 
@@ -79,7 +79,6 @@ Through this methodical process, I successfully developed a dashboard that provi
 
 The Aventa Group wants to know how and if regional performance, marketers sales metrics, customers, customer age group, gender, generates any transactional pattern, trends and hidden business discoveries. 
 
-[Read More](
 
 As a professional data analyst, I addressed The  Aventa Group's concerns about regional performance, sales metrics, customer demographics, and transactional patterns through the following steps:
 
@@ -95,7 +94,7 @@ As a professional data analyst, I addressed The  Aventa Group's concerns about r
 
 6. Actionable Insights: I presented findings to the Aventa Group, offering insights to inform marketing strategies and enhance customer engagement.
 
-This structured approach enabled the Aventa Group to solve their business concerns.)
+This structured approach enabled the Aventa Group to solve their business concerns.
 
 **How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and qty sold.**
 
@@ -103,24 +102,24 @@ This structured approach enabled the Aventa Group to solve their business concer
 
 I assisted Daxxon Company in uncovering hidden metrics within their business data, leading to a 45% increase in revenue and quantity sold by focusing on the following insights:
 
-[Read More] (City Sales Performance: I analyzed sales data by city to identify top-performing regions, allowing Daxxon to target marketing efforts effectively.
+City Sales Performance: I analyzed sales data by city to identify top-performing regions, allowing Daxxon to target marketing efforts effectively.
 
 
-Managers Evaluation: I evaluated manager performance metrics, highlighting effective strategies and areas for improvement, which helped optimize team productivity.
+1- Managers Evaluation: I evaluated manager performance metrics, highlighting effective strategies and areas for improvement, which helped optimize team productivity.
 
 
-Payment Method Analysis: By examining payment methods, I identified preferences that influenced customer purchasing behavior, enabling tailored payment options.
+2- Payment Method Analysis: By examining payment methods, I identified preferences that influenced customer purchasing behavior, enabling tailored payment options.
 
 
-Purchase Type Insights: I categorized purchase types to understand customer preferences, leading to targeted promotions that boosted sales.
+3- Purchase Type Insights: I categorized purchase types to understand customer preferences, leading to targeted promotions that boosted sales.
 
 
-Quantity Metrics: I analyzed quantity sold metrics to identify trends, helping the company adjust inventory and sales strategies accordingly.
+4- Quantity Metrics: I analyzed quantity sold metrics to identify trends, helping the company adjust inventory and sales strategies accordingly.
 
 
-Revenue Generation Timing: I pinpointed periods when Daxxon generated the highest revenue, allowing for strategic planning of sales campaigns during peak times.
+5- Revenue Generation Timing: I pinpointed periods when Daxxon generated the highest revenue, allowing for strategic planning of sales campaigns during peak times.
 
-Through these data insights, Daxxon was able to make informed decisions that significantly enhanced their performance, resulting in a substantial increase in both revenue and quantity sold.)
+Through these data insights, Daxxon company was able to make informed decisions that significantly enhanced their performance, resulting in a substantial increase in both revenue and quantity sold.
 
 
 **PBI - Enhancing Business Performance with Exploratory Data Analysis in Power BI.**
@@ -129,7 +128,7 @@ Through these data insights, Daxxon was able to make informed decisions that sig
 
 Using Exploratory Data Analysis (EDA) in Power BI, I discovered hidden metrics that contributed to a 35% increase in overall business performance.
 
-[Read More] (1- Subcategory Performance: I analyzed sales data by subcategory, identifying high-performing and underperforming segments. This insight allowed for targeted marketing and inventory adjustments.
+1- Subcategory Performance: I analyzed sales data by subcategory, identifying high-performing and underperforming segments. This insight allowed for targeted marketing and inventory adjustments.
 
 
 2- Identifying Least Profitable Periods: I calculated the least profitable periods by examining sales and profit trends over time. This analysis helped the company recognize and address seasonal dips in performance.
@@ -144,17 +143,17 @@ Using Exploratory Data Analysis (EDA) in Power BI, I discovered hidden metrics t
 5- Sales Performance Analysis: I evaluated sales performance in relation to revenue, profit, and average sales metrics. This comprehensive view provided insights into overall business health and areas for improvement.
 
 
-Through these EDA techniques in Power BI, I uncovered critical metrics that informed strategic decisions, ultimately leading to a significant boost in business performance.)
+Through these EDA techniques in Power BI, I uncovered critical metrics that informed strategic decisions, ultimately leading to a significant boost in business performance.
 
 
-**Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria using Kobo Toolbox for data collection & data aggregation.**
+**Delivered 6000 retail audit for Pladis Global across 6 States in Nigeria using Kobo Toolbox for data collection & data aggregation.**
 
 ![image](Pladis Project 1.jpeg)
 ![image](Pladis Project 2.jpeg)
 
-### Implementation of Branded Data Collectors Using Kobo Toolbox
+### Branded Data Collectors Using Kobo Toolbox
 
-I, deployed branded data collectors in the field utilizing **Kobo Toolbox** on their mobile devices, offering several key advantages:
+By utilizing Kobo Toolbox with our branded data collectors, we improve the efficiency, accuracy, and reliability of our data collection processes, supporting better decision-making and strategic planning.
 
 1. **Streamlined Data Collection**:
    - **Mobile Accessibility**: Real-time data entry ensures accuracy and timeliness.
@@ -176,7 +175,7 @@ I, deployed branded data collectors in the field utilizing **Kobo Toolbox** on t
    - **Data Visualization**: Tools for visualizing data enable quick insights.
    - **Export Options**: Collected data can be easily exported for further analysis.
 
-By utilizing Kobo Toolbox with our branded data collectors, we improve the efficiency, accuracy, and reliability of our data collection processes, supporting better decision-making and strategic planning.
+
 
 
 

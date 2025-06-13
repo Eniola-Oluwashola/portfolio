@@ -155,7 +155,7 @@ Through these EDA techniques in Power BI, I uncovered critical metrics that info
 
 By utilizing Kobo Toolbox with our branded data collectors, we improve the efficiency, accuracy, and reliability of our data collection processes, supporting better decision-making and strategic planning.
 
-1. **Projects Achieved With Kobo Toolbox (Data Collection & Aggregation)**:
+**Projects Achieved With Kobo Toolbox (Data Collection & Aggregation)**:
  
  - Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria, using the Kobo Toolbox for raw data collection.
 

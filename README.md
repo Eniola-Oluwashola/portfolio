@@ -155,25 +155,15 @@ Through these EDA techniques in Power BI, I uncovered critical metrics that info
 
 By utilizing Kobo Toolbox with our branded data collectors, we improve the efficiency, accuracy, and reliability of our data collection processes, supporting better decision-making and strategic planning.
 
-1. **Streamlined Data Collection**:
-   - **Mobile Accessibility**: Real-time data entry ensures accuracy and timeliness.
-   - **User-Friendly Interface**: Kobo Toolbox’s intuitive design facilitates efficient data entry, even in low-connectivity areas.
+1. **Projects Achieved With Kobo Toolbox (Data Collection & Aggregation)**:
+ 
+ - Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria, using the Kobo Toolbox for raw data collection.
 
-2. **Branding and Consistency**:
-   - **Branded Experience**: Data collectors use branded materials to reinforce our identity.
-   - **Standardized Forms**: Customized forms ensure uniformity in data collection protocols.
+- Delivered a nationwide market research project with a new entrant (CHLOE Diaper) into the disposable diaper industry (Surveyed 350 wholesales stores, 750 retail stores, 100 Key-In-depth Interviews, 25 Focus Group Discussions) across key cities in Nigeria.
 
-3. **Real-Time Data Monitoring**:
-   - **Instant Data Upload**: Data can be uploaded immediately when connectivity is available, allowing for real-time monitoring.
-   - **Quality Control**: Supervisors can provide prompt feedback to enhance data quality.
+- Delivered retail audit for Pladis Global Nigeria, aggregating data of approximately 5000 retail outlets in open-air markets and neighborhoods (Lagos Only) and also using the Kobo Toolbox for raw data collection.
 
-4. **Enhanced Data Security**:
-   - **Secure Storage**: Kobo Toolbox offers secure data storage, protecting sensitive information.
-   - **Access Control**: User permissions can be managed to restrict access to sensitive data.
-
-5. **Comprehensive Reporting**:
-   - **Data Visualization**: Tools for visualizing data enable quick insights.
-   - **Export Options**: Collected data can be easily exported for further analysis.
+- Trained over 5,000 in Data Analytics covering Data Research & Data Aggregation (Kobo Toolbox), Advanced Data Visualization. Power-BI, Excel, SQL & Tableau.
 
 
 

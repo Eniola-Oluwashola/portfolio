@@ -53,6 +53,8 @@ conditions, and trends in admissions using their raw medical data, thereby incre
 
 ![image](New Greenwish Medical Records Dashboard.PNG)
 
+Tech Stack: EXCEL.
+
 As a data analyst, I was tasked with working on a healthcare dataset to develop an interactive Excel dashboard aimed at analyzing and visualizing key healthcare metrics. 
 This dashboard is designed to deliver actionable insights into patient demographics, health conditions, trends in admissions, and enhancing overall operational efficiency by 75%.
 
@@ -77,6 +79,8 @@ Through this methodical process, I successfully developed a dashboard that provi
 
 ![image](The Aventa Group Transactional Metrics Analysis.PNG)
 
+Tech Stack: EXCEL.
+
 The Aventa Group wants to know how and if regional performance, marketers sales metrics, customers, customer age group, gender, generates any transactional pattern, trends and hidden business discoveries. 
 
 
@@ -99,6 +103,8 @@ This structured approach enabled the Aventa Group to solve their business concer
 **How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and qty sold.**
 
 ![image](Daxxon Business Performance Dashboard (Excel).PNG)
+
+Tech Stack: EXCEL.
 
 I assisted Daxxon Company in uncovering hidden metrics within their business data, leading to a 45% increase in revenue and quantity sold by focusing on the following insights:
 
@@ -126,6 +132,8 @@ Through these data insights, Daxxon company was able to make informed decisions 
 
 ![image](PBI - Business Performance Overview - DATAHOUSE-NG..PNG)
 
+Tech Stack: POWER-BI.
+
 Using Exploratory Data Analysis (EDA) in Power BI, I discovered hidden metrics that contributed to a 35% increase in overall business performance.
 
 1- Subcategory Performance: I analyzed sales data by subcategory, identifying high-performing and underperforming segments. This insight allowed for targeted marketing and inventory adjustments.
@@ -150,6 +158,8 @@ Through these EDA techniques in Power BI, I uncovered critical metrics that info
 
 ![image](Pladis Project 1.jpeg)
 ![image](Pladis Project 2.jpeg)
+
+Software: KOBO TOOLBOX
 
 ### Branded Data Collectors Using Kobo Toolbox
 

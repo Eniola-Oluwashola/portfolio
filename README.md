@@ -41,7 +41,7 @@ I offer comprehensive training programs in data analysis, advanced visualization
 *- Tableau*
 *- SQL*
 *- Data appending & merging*
-*- Data wrangling, data analysis, data cleaning & transformation, data modelling*
+*- Data wrangling, data analysis, data cleaning & transformation, data modelling.*
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
@@ -49,7 +49,7 @@ I offer comprehensive training programs in data analysis, advanced visualization
 *A glimpse of some of the projects I've been working on.*
 
 **How I helped GREENWISH MEDICALS to provide actionable insights into patient demographics, health 
-conditions, and trends in admissions using their raw medical data, thereby operational efficiency by 75%.**
+conditions, and trends in admissions using their raw medical data, thereby increasing operational efficiency by 75%.**
 
 ![image](New Greenwish Medical Records Dashboard.PNG)
 

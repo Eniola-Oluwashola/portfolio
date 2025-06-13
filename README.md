@@ -100,7 +100,7 @@ As a professional data analyst, I addressed The  Aventa Group's concerns about r
 
 This structured approach enabled the Aventa Group to solve their business concerns.
 
-**How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and qty sold.**
+**How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and sales.**
 
 ![image](Daxxon Business Performance Dashboard (Excel).PNG)
 

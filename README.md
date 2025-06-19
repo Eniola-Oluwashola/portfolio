@@ -61,17 +61,19 @@ This dashboard is designed to deliver actionable insights into patient demograph
 
 In creating an interactive Excel dashboard for analyzing key healthcare metrics, I followed a structured approach:
 
-1- Data Collection and Preparation: I acquired a healthcare dataset with relevant information, performed data cleaning to ensure accuracy, and transformed the data for analysis by categorizing health conditions and creating calculated metrics.
+1- Data Collection and Preparation: I performed data cleaning using the power query editor to ensure accuracy, and transformed the data for analysis by categorizing health conditions and creating calculated metrics.
 
 2- Data Analysis: I conducted exploratory data analysis (EDA) to identify patterns and selected essential metrics for the dashboard, including patient demographics and admission trends.
 
-3- Dashboard Design: I designed a user-friendly layout, incorporating interactive features like slicers and drop-down menus to enhance user engagement and facilitate data filtering.
+3- I derived the KPIs by writing DAX Measures in Excel's power pivot engine. 
 
-4- Data Visualization: I utilized various chart types to visualize the data effectively and applied conditional formatting to highlight key trends and insights.
+4- Dashboard Design: I designed a user-friendly layout, incorporating interactive features like slicers and drop-down menus to enhance user engagement and facilitate data filtering.
 
-5- Testing and Feedback: After the initial version was completed, I conducted user testing to gather feedback and made iterative improvements based on stakeholder input.
+5- Data Visualization: I utilized various chart types to visualize the data effectively and applied conditional formatting to highlight key trends and insights.
 
-6- Finalization and Presentation: I created documentation for user navigation and presented the final dashboard to stakeholders, demonstrating its features and utility in making data-driven decisions.
+6- Testing and Feedback: After the initial version was completed, I conducted user testing to gather feedback and made iterative improvements based on stakeholder input.
+
+7- Finalization and Presentation: I created documentation for user navigation and presented the final dashboard to stakeholders, demonstrating its features and utility in making data-driven decisions.
 
 Through this methodical process, I successfully developed a dashboard that provides valuable insights into patient demographics, health conditions, and admission trends, ultimately enhancing decision-making in healthcare management.
 

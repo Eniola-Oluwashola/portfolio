@@ -21,30 +21,32 @@ I'm currently open to a full-time remote Data Analyst role in operations, intern
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-As the Chief Analyst of DATAHOUSE-NG, I provide consulting and training services for organizations, businesses, executives, individuals and mentor aspiring analysts.
+I'm a Data & Business Analyst who builds the executive dashboards, models, and reports organizations use to make decisions; across operations, international development, sales & customers, fintech, FMCG,and  NGO/international development.
 
-**- Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+Over 10+ years, I've run market research and field data collection projects (KoboToolbox), built Power BI and Excel dashboards for supply chain, microfinance, and public health teams, and turned messy field-level data into KPIs that the leadership can act on.
 
-**- Staff Training & Development.**
-I offer comprehensive training programs in data analysis, advanced visualization, mobile data collection using KoBoToolBox and data-driven decision-making. From beginner to advanced levels. 
+I've also trained 7,000+ professionals in Data Analysis, Business Analysis, Power BI, SQL, and Agile delivery, which means I'm just as comfortable explaining the "why" behind a number to a non-technical stakeholder as I am building the dashboard itself.
 
-## SKILLS
+I'm looking for a full-time, remote Data Analyst or Business Analyst role where I can bring that same rigor to one team. 
 
-*- Power-BI*
-*- Excel*
-*- Advanced Visualization*
-*- Kobo Toolbox*
-*- Data Research*
-*- Data aggregation*
-*- Mobile Data Collection*
-*- Data Markeing & Research*
-*- DAX Writing*
-*- Power Query Editor*
-*- Tableau*
-*- SQL*
-*- Data appending & merging*
-*- Data wrangling, data analysis, data cleaning & transformation, data modelling.*
+## Technical Skills
+
+- **Data Analysis & Visualization** — Power BI, Tableau, Excel; executive-ready, decision-driving dashboards
+- **Data Wrangling & Quality Assurance** — SQL queries and Excel Power-Query for cleaning and structuring data at scale
+- **Business & Requirements Analysis** — stakeholder interviews, process mapping, BRDs
+- **Data & Market Research** — quantitative and qualitative study design, fieldwork, reporting
+- **Mobile Data Collection & Aggregation** — KoboToolbox form design, field deployment, large-scale data cleaning
+- **KPI & Performance Reporting** — sales, supply chain, M&E, RFM Analysis (customer segmentation), and portfolio-risk dashboards.
+
+
+## Soft Skills
+
+- **Stakeholder Communication** — translating technical findings into language executives and non-technical teams can act on immediately
+- **Cross-Sector Adaptability** — comfortable moving between FMCG, NGO/international development, and fintech contexts without a learning-curve tax
+- **Mentorship & Knowledge Transfer** — trained 7,000+ professionals, which means I default to explaining reasoning, not just handing over output
+- **Remote & Distributed Coordination** — used to managing field teams, deadlines, and stakeholder check-ins across multiple locations and time zones, asynchronously
+- **Problem Diagnosis** — comfortable sitting with ambiguous or incomplete data and figuring out what question it can actually answer
+- **Attention to Detail** — a data-collection background means I catch quality issues before they become a dashboard's bad assumption
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS

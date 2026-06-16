@@ -1,19 +1,22 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Eniola Oluwashola, a professional data analyst, visualizaton specialist, educator, data researcher, data aggregator, data collector, and a data consultant. 
-With a suite of over 10yrs experience and expertise spanning data analytics, data & market research, data collection & aggregation (Kobo Toolbox Expertise), mobile data collection using KoBo ToolBox, I have delivered data projects & consulting for FMCGs, businesses & organizations.
+Hello! I'm Eniola Oluwashola, a professional data analyst, visualizaton specialist, educator, data researcher, data aggregator and a  data collector. 
+
+I'm a Microsoft Certified Data Analyst and Business Analyst with a background most "data people" don't have: I've collected the data myself — running large-scale FMCG retail audits and market research fieldwork — before I ever built a dashboard from it. That ground-up view shapes how I work now. I don't just visualize numbers; I question where they came from, what's missing, and what decision they're meant to support.
+
+I'm currently open to a full-time remote Data Analyst role in operations, international development, sales & customers or fintech, and ready to bring all of this directly to one team.
+
 
 ## ACHIEVEMENT
 
-- Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria, using the Kobo Toolbox for raw data collection.
+- Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria, using the Kobo Toolbox for raw data collection, data & business analysis and the building of executive dashboards that aided management business decisions.
 
 - Delivered a nationwide market research project with a new entrant (CHLOE Diaper) into the disposable diaper industry (Surveyed 350 wholesales stores, 750 retail stores, 100 Key-In-depth Interviews, 25 Focus Group Discussions) across key cities in Nigeria.
 
 - Delivered retail audit for Pladis Global Nigeria, aggregating data of approximately 5000 retail outlets in open-air markets and neighborhoods (Lagos Only) and also using the Kobo Toolbox for raw data collection.
 
-- Trained over 5,000 in Data Analytics covering Data Research & Data Aggregation (Kobo Toolbox), Advanced Data Visualization. Power-BI, Excel, SQL & Tableau.
-
+- Trained over 5,000  across Data Analysis, Business Analysis, Project Management, UI/UX, AI, Agile Delivery (Scrum & Kanban), Monday.com, and KoboToolbox-based field research.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO

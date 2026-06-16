@@ -129,9 +129,13 @@ Headphones accounted for 27.8% of total sales volume, while Tablets contributed 
 **This analysis:**
 
 -Identified an 8.27% revenue decline before it became a larger business risk.
+
 -Revealed a 313% performance gap between top and bottom sales representatives.
+
 -Highlighted a 111% revenue difference between major markets.
+
 -Exposed product concentration risks and growth opportunities.
+
 -Provided data-driven recommendations to improve revenue growth and sales effectiveness.
 
 **Business Impact Statement:**

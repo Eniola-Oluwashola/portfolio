@@ -3,7 +3,7 @@
 
 Hello! I'm Eniola Oluwashola, a professional data analyst, visualizaton specialist, educator, data researcher, data aggregator and a  data collector. 
 
-I'm a Microsoft Certified Data Analyst and Business Analyst with a background most "data people" don't have: I've collected the data myself — running large-scale FMCG retail audits and market research fieldwork — before I ever built a dashboard from it. That ground-up view shapes how I work now. I don't just visualize numbers; I question where they came from, what's missing, and what decision they're meant to support.
+I'm a Microsoft Certified Data Analyst and Business Analyst with a background most "data people" don't have: I've collected the data myself; running large-scale FMCG retail audits and market research fieldwork, before I ever built a dashboard from it. That ground-up view shapes how I work now. I don't just visualize numbers; I question where they came from, what's missing, and what decision they're meant to support.
 
 I'm currently open to a full-time remote Data Analyst role in operations, international development, sales & customers or fintech, and ready to bring all of this directly to one team.
 
@@ -49,7 +49,106 @@ I offer comprehensive training programs in data analysis, advanced visualization
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A glimpse of some of the projects I've been working on.*
+**Sales Performance Diagnostic & Revenue Optimization: A Multi-Dimensional Business Intelligence Analysis of Revenue Trends, Sales Team Effectiveness, Product Performance, and Geographic Market Contribution.**
+
+![image](HE SYNTAX GROUP DASHBOARD..jpeg)
+
+Tech Stack: EXCEL.
+
+Business Problem
+
+The business experienced declining revenue despite ongoing sales activity. Leadership needed visibility into sales performance, product contribution, market effectiveness, and revenue trends to identify growth opportunities and performance gaps.
+
+Executive Summary
+
+Using Power BI, I developed a Sales Performance Dashboard to evaluate revenue trends, sales representative performance, product sales distribution, and geographic market contribution.
+
+The analysis revealed $454.6K in revenue from 533 units sold, while revenue declined by 8.27% MoM. The dashboard identified significant performance differences across sales reps, products, and markets, providing actionable insights to support revenue growth and operational improvement.
+
+Key Insights
+Revenue Performance
+Total Revenue: $454.6K
+Revenue Growth: -8.27% MoM
+Quantity Sold: 533 Units
+Quantity Growth: -1.60% MoM
+
+Revenue declined significantly faster than sales volume, suggesting pricing, discounting, or product mix issues.
+
+Monthly Revenue Trend
+Highest Revenue Month: June ($60,679)
+Lowest Revenue Month: August ($48,221)
+
+Revenue dropped by 20.5% between the strongest and weakest months, highlighting seasonal or operational fluctuations.
+
+Sales Rep Performance
+Top Performer: Jacob ($112,397)
+Lowest Performer: John ($27,172)
+
+Jacob generated 313% more revenue than the lowest-performing sales representative, indicating a substantial opportunity for performance coaching and knowledge sharing.
+
+Market Performance
+Highest Revenue Market: USA ($124,424)
+Lowest Revenue Market: Canada ($58,982)
+
+The USA contributed 27.17% of total revenue and generated more than double Canada's revenue, creating both growth opportunities and market concentration risk.
+
+Product Performance
+Top Product: Headphones (148 Units)
+Lowest Product: Tablet (21 Units)
+
+Headphones accounted for 27.8% of total sales volume, while Tablets contributed only 3.9%, suggesting opportunities for portfolio optimization.
+
+Recommendations
+Investigate pricing, discounting, and product mix drivers behind the 8.27% revenue decline.
+Replicate top-performing sales strategies across the broader sales team.
+Increase investment in high-performing markets such as the USA while developing growth strategies for underperforming regions.
+Prioritize inventory and marketing efforts around high-performing products, including Headphones, Laptops, and Phones.
+Review underperforming products for repositioning, bundling, or discontinuation.
+Business Impact
+
+This analysis:
+
+Identified an 8.27% revenue decline before it became a larger business risk.
+Revealed a 313% performance gap between top and bottom sales representatives.
+Highlighted a 111% revenue difference between major markets.
+Exposed product concentration risks and growth opportunities.
+Provided data-driven recommendations to improve revenue growth and sales effectiveness.
+Portfolio Impact Statement
+
+I built an executive-level Excel Sales Performance Dashboard that analyzed revenue trends, sales team effectiveness, product performance, and geographic contribution. The solution uncovered declining revenue trends, identified key growth markets, revealed a 313% sales performance gap in total, and provided actionable recommendations to support revenue optimization and strategic decision-making.
+
+
+
+
+
+**How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and sales.**
+
+![image](Daxxon Business Performance Dashboard (Excel).PNG)
+
+Tech Stack: EXCEL.
+
+I assisted Daxxon Company in uncovering hidden metrics within their business data, leading to a 45% increase in revenue and quantity sold by focusing on the following insights:
+
+City Sales Performance: I analyzed sales data by city to identify top-performing regions, allowing Daxxon to target marketing efforts effectively.
+
+
+1- Managers Evaluation: I evaluated manager performance metrics, highlighting effective strategies and areas for improvement, which helped optimize team productivity.
+
+
+2- Payment Method Analysis: By examining payment methods, I identified preferences that influenced customer purchasing behavior, enabling tailored payment options.
+
+
+3- Purchase Type Insights: I categorized purchase types to understand customer preferences, leading to targeted promotions that boosted sales.
+
+
+4- Quantity Metrics: I analyzed quantity sold metrics to identify trends, helping the company adjust inventory and sales strategies accordingly.
+
+
+5- Revenue Generation Timing: I pinpointed periods when Daxxon generated the highest revenue, allowing for strategic planning of sales campaigns during peak times.
+
+Through these data insights, Daxxon company was able to make informed decisions that significantly enhanced their performance, resulting in a substantial increase in both revenue and quantity sold.
+
+*A glimpse of some of the projects I've been working on.*   T
 
 **How I helped GREENWISH MEDICALS to provide actionable insights into patient demographics, health 
 conditions, and trends in admissions using their raw medical data, thereby increasing operational efficiency by 75%.**

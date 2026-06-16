@@ -77,33 +77,33 @@ Revenue declined significantly faster than sales volume, suggesting pricing, dis
 
 **Monthly Revenue Trend**
 
-Highest Revenue Month: June ($60,679)
-Lowest Revenue Month: August ($48,221)
+-Highest Revenue Month: June ($60,679).
+-Lowest Revenue Month: August ($48,221).
 
 Revenue dropped by 20.5% between the strongest and weakest months, highlighting seasonal or operational fluctuations.
 
-**Sales Rep Performance**
+**Sales Rep Performance:**
 
-Top Performer: Jacob ($112,397)
-Lowest Performer: John ($27,172)
+-Top Performer: Jacob ($112,397).
+-Lowest Performer: John ($27,172).
 
 Jacob generated 313% more revenue than the lowest-performing sales representative, indicating a substantial opportunity for performance coaching and knowledge sharing.
 
-**Market Performance**
+**Market Performance:**
 
-Highest Revenue Market: USA ($124,424)
-Lowest Revenue Market: Canada ($58,982)
+-Highest Revenue Market: USA ($124,424).
+-Lowest Revenue Market: Canada ($58,982).
 
 The USA contributed 27.17% of total revenue and generated more than double Canada's revenue, creating both growth opportunities and market concentration risk.
 
-**Product Performance**
+**Product Performance:**
 
-Top Product: Headphones (148 Units)
-Lowest Product: Tablet (21 Units)
+-Top Product: Headphones (148 Units).
+-Lowest Product: Tablet (21 Units).
 
 Headphones accounted for 27.8% of total sales volume, while Tablets contributed only 3.9%, suggesting opportunities for portfolio optimization.
 
-**Recommendations**
+**Recommendations:**
 
 1 - Investigate pricing, discounting, and product mix drivers behind the 8.27% revenue decline.
 2 - Replicate top-performing sales strategies across the broader sales team.
@@ -111,7 +111,7 @@ Headphones accounted for 27.8% of total sales volume, while Tablets contributed 
 4 - Prioritize inventory and marketing efforts around high-performing products, including Headphones, Laptops, and Phones.
 5 - Review underperforming products for repositioning, bundling, or discontinuation.
 
-**Business Impact**
+**Business Impact:**
 
 **This analysis:**
 
@@ -120,7 +120,8 @@ Headphones accounted for 27.8% of total sales volume, while Tablets contributed 
 -Highlighted a 111% revenue difference between major markets.
 -Exposed product concentration risks and growth opportunities.
 -Provided data-driven recommendations to improve revenue growth and sales effectiveness.
--Portfolio Impact Statement
+
+**Business Impact Statement:**
 
 I built an executive-level Excel Sales Performance Dashboard that analyzed revenue trends, sales team effectiveness, product performance, and geographic contribution. The solution uncovered declining revenue trends, identified key growth markets, revealed a 313% sales performance gap in total, and provided actionable recommendations to support revenue optimization and strategic decision-making.
 

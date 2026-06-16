@@ -53,19 +53,19 @@ I offer comprehensive training programs in data analysis, advanced visualization
 
 ![image](HE SYNTAX GROUP DASHBOARD..jpeg)
 
-Tech Stack: EXCEL.
+**Tech Stack: EXCEL.**
 
-Business Problem
+**Business Problem**
 
 The business experienced declining revenue despite ongoing sales activity. Leadership needed visibility into sales performance, product contribution, market effectiveness, and revenue trends to identify growth opportunities and performance gaps.
 
-Executive Summary
+**Executive Summary**
 
-Using Power BI, I developed a Sales Performance Dashboard to evaluate revenue trends, sales representative performance, product sales distribution, and geographic market contribution.
+Using Excel, I developed a Sales Performance Dashboard to evaluate revenue trends, sales representative performance, product sales distribution, and geographic market contribution.
 
 The analysis revealed $454.6K in revenue from 533 units sold, while revenue declined by 8.27% MoM. The dashboard identified significant performance differences across sales reps, products, and markets, providing actionable insights to support revenue growth and operational improvement.
 
-Key Insights
+**Key Insights**
 Revenue Performance
 Total Revenue: $454.6K
 Revenue Growth: -8.27% MoM
@@ -74,31 +74,31 @@ Quantity Growth: -1.60% MoM
 
 Revenue declined significantly faster than sales volume, suggesting pricing, discounting, or product mix issues.
 
-Monthly Revenue Trend
+**Monthly Revenue Trend**
 Highest Revenue Month: June ($60,679)
 Lowest Revenue Month: August ($48,221)
 
 Revenue dropped by 20.5% between the strongest and weakest months, highlighting seasonal or operational fluctuations.
 
-Sales Rep Performance
+**Sales Rep Performance**
 Top Performer: Jacob ($112,397)
 Lowest Performer: John ($27,172)
 
 Jacob generated 313% more revenue than the lowest-performing sales representative, indicating a substantial opportunity for performance coaching and knowledge sharing.
 
-Market Performance
+**Market Performance**
 Highest Revenue Market: USA ($124,424)
 Lowest Revenue Market: Canada ($58,982)
 
 The USA contributed 27.17% of total revenue and generated more than double Canada's revenue, creating both growth opportunities and market concentration risk.
 
-Product Performance
+**Product Performance**
 Top Product: Headphones (148 Units)
 Lowest Product: Tablet (21 Units)
 
 Headphones accounted for 27.8% of total sales volume, while Tablets contributed only 3.9%, suggesting opportunities for portfolio optimization.
 
-Recommendations
+**Recommendations**
 Investigate pricing, discounting, and product mix drivers behind the 8.27% revenue decline.
 Replicate top-performing sales strategies across the broader sales team.
 Increase investment in high-performing markets such as the USA while developing growth strategies for underperforming regions.
@@ -106,7 +106,7 @@ Prioritize inventory and marketing efforts around high-performing products, incl
 Review underperforming products for repositioning, bundling, or discontinuation.
 Business Impact
 
-This analysis:
+**This analysis:**
 
 Identified an 8.27% revenue decline before it became a larger business risk.
 Revealed a 313% performance gap between top and bottom sales representatives.

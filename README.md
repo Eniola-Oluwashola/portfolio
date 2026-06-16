@@ -51,7 +51,7 @@ I offer comprehensive training programs in data analysis, advanced visualization
 
 **Sales Performance Diagnostic & Revenue Optimization: A Multi-Dimensional Business Intelligence Analysis of Revenue Trends, Sales Team Effectiveness, Product Performance, and Geographic Market Contribution.**
 
-![image](HE SYNTAX GROUP DASHBOARD..jpeg)
+![image](THE SYNTAX GROUP DASHBOARD..jpeg)
 
 **Tech Stack: EXCEL.**
 

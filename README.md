@@ -322,7 +322,7 @@ I built a Power BI Enterprise Business Performance Dashboard that brings financi
 
 ![image](New Greenwish Medical Records Dashboard.PNG)
 
-**Tech Stack**: Power BI, Power Query, DAX, Star Schema and Snowflake Modeling, Dedicated Date Table for Time Series Analysis.
+**Tech Stack**: Excel, Power Query, DAX, Star Schema and Snowflake Modeling, Dedicated Date Table for Time Series Analysis.
 
 **Business Problem**
 

@@ -318,6 +318,101 @@ I built a Power BI Enterprise Business Performance Dashboard that brings financi
 
 
 
+**Case Study: Greenwish Medical Records Intelligence Dashboard**
+
+![Greenwish Medical Records Dashboard](New_Greenwish_Medical_Records_Dashboard.PNG)
+
+**Tech Stack:** Power BI
+
+**Business Problem**
+
+Greenwish Medicals needed a clear view of patient demographics, health outcomes, and admission patterns across its facilities to support staffing, resource planning, and patient care decisions. Without a consolidated view, it was difficult to see which patient groups, locations, and time periods needed the most attention.
+
+**Executive Summary**
+
+I built a Medical Records Dashboard that brings together patient demographics, health condition outcomes, admission trends, and city level admission data across 1,656 patient records from 2019 to 2024.
+
+The analysis found that most patients report good or excellent health outcomes, that admissions concentrate heavily in the 21 to 40 age group and in Atlanta, and that admission volume swings sharply month to month, with January the busiest month of the year and April the slowest.
+
+**Key Insights**
+
+**Patient Records Span Six Years**
+
+- Total Records: 1,656
+- Average Age: 33
+- Average Salary: $43.7K
+- Date Range: 2019 to 2024
+
+This gives the hospital a six year baseline to track how patient demographics and outcomes shift over time.
+
+**Health Outcomes Skew Positive**
+
+- Good: 783 patients
+- Excellent: 495 patients
+- Poor: 378 patients
+
+Good or excellent outcomes account for 1,278 of 1,656 patients, about 77% of the total, while poor outcomes make up the remaining 23%, giving the hospital a clear baseline ratio to monitor going forward.
+
+**Admissions Concentrate in Working Age Adults**
+
+- 21 to 40: 969 patients
+- 41 to 60: 344 patients
+- 0 to 20: 270 patients
+- 61 to 80: 60 patients
+- 81 and older: 13 patients
+
+Patients between 21 and 40 make up 969 of 1,656 records, about 58.5% of the total, making this age band the main driver of admission volume and the most important group for staffing and care planning.
+
+**Atlanta Drives the Majority of Admissions**
+
+- Atlanta: 59%
+- Albuquerque: 23%
+- Baltimore: 18%
+
+Atlanta alone accounts for more than half of all admissions across the three cities, which points to either a larger patient base in that location or a capacity strain worth investigating.
+
+**Credit Score Rises With Education Level**
+
+- Master's degree: average credit score of 742
+- Bachelor's degree: average credit score of 681
+- High school: average credit score of 606
+
+Average credit score climbs with education level, with Master's degree patients averaging 136 points higher than patients with only a high school education, a gap that likely reflects broader income and financial stability differences across these groups.
+
+**Admission Volume Swings Sharply Month to Month**
+
+- Highest Month: January (157 admissions)
+- Lowest Month: April (99 admissions)
+
+January runs 58.6% higher than the April low point, a swing large enough to affect staffing and resource planning if the pattern repeats year over year.
+
+**Recommendations**
+
+1. Plan staffing and bed capacity around the January admission peak, and build in slack for the steep April drop.
+2. Investigate why Atlanta accounts for 59% of admissions relative to Albuquerque and Baltimore, since this could reflect patient base size or capacity strain.
+3. Build targeted outreach and preventive care programs for patients in the 21 to 40 age band, since they make up the majority of the patient population.
+4. Track the 23% of patients reporting poor health outcomes more closely to catch and address declines earlier.
+5. Use the relationship between education level and credit score to tailor billing communication and financial counseling by patient group.
+6. Review admission and outcome patterns by blood type over time to see whether differences across groups are meaningful or just a result of smaller sample sizes for rarer blood types.
+
+**Business Impact**
+
+This dashboard enabled hospital leadership to:
+
+- Track 1,656 patient records across six years from 2019 to 2024.
+- Identify that 77% of patients report good or excellent health outcomes.
+- Reveal that Atlanta accounts for 59% of total admissions across three cities.
+- Surface a 58.6% swing in admissions between the slowest month, April, and the busiest, January.
+- Connect education level to average credit score for more targeted patient communication.
+- Replace scattered reports with one consistent view of demographics, outcomes, and admission patterns.
+
+**Business Impact Statement**
+
+I built a Medical Records Dashboard for Greenwish Medicals that brings patient demographics, health outcomes, and admission trends across 1,656 records from 2019 to 2024 into one view. The analysis showed that 77% of patients report good or excellent health, that admissions concentrate in the 21 to 40 age group and in Atlanta specifically, and that admission volume can swing by more than 58% between the slowest and busiest months. It gives hospital leadership a clearer way to plan staffing, target patient outreach, and monitor health outcomes across locations and demographics.
+
+
+
+
 **Delivered 6000 retail audit for Pladis Global across 6 States in Nigeria using Kobo Toolbox for data collection & data aggregation.**
 
 ![image](Pladis Project 1.jpeg)

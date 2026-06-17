@@ -56,7 +56,7 @@ I'm looking for a full-time, remote Data Analyst or Business Analyst role where 
 
 **Case Study 1 - Executive Sales Analytics Dashboard: Revenue Optimization and Performance Intelligence.**
 
-![image](THE SYNTAX GROUP DASHBOARD..jpeg)
+![image](THE SYNTAX GROUP DASHBOARD..jpeg)  
 
 
 **Tech Stack:** Power Query, Power Pivot, DAX, Excel (PivotTables, Conditional Formatting, Charts & Dashboard Design)
@@ -320,7 +320,7 @@ I built a Power BI Enterprise Business Performance Dashboard that brings financi
 
 **Case Study 4 - Greenwish Medical Records Intelligence Dashboard**
 
-![Greenwish Medical Records Dashboard](New_Greenwish_Medical_Records_Dashboard.PNG)
+![image](New Greenwish Medical Records Dashboard.PNG)
 
 **Tech Stack**: Power BI, Power Query, DAX, Star Schema and Snowflake Modeling, Dedicated Date Table for Time Series Analysis.
 

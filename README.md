@@ -318,11 +318,11 @@ I built a Power BI Enterprise Business Performance Dashboard that brings financi
 
 
 
-**Case Study: Greenwish Medical Records Intelligence Dashboard**
+**Case Study 4 - Greenwish Medical Records Intelligence Dashboard**
 
 ![Greenwish Medical Records Dashboard](New_Greenwish_Medical_Records_Dashboard.PNG)
 
-**Tech Stack:** Power BI
+**Tech Stack**: Power BI, Power Query, DAX, Star Schema and Snowflake Modeling, Dedicated Date Table for Time Series Analysis.
 
 **Business Problem**
 

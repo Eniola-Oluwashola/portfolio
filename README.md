@@ -229,83 +229,93 @@ I built an RFM based Customer Retention Intelligence Dashboard in Excel that seg
 
 
 
-**The Aventa Group Transactional Metrics Analysis.**
 
-![image](The Aventa Group Transactional Metrics Analysis.PNG)
-
-Tech Stack: EXCEL.
-
-The Aventa Group wants to know how and if regional performance, marketers sales metrics, customers, customer age group, gender, generates any transactional pattern, trends and hidden business discoveries. 
-
-
-As a professional data analyst, I addressed The  Aventa Group's concerns about regional performance, sales metrics, customer demographics, and transactional patterns through the following steps:
-
-1. Data Collection: I gathered data from sales records, customer databases, and regional reports to create a comprehensive dataset.
-
-2. Data Cleaning: I cleaned the dataset to remove inconsistencies and categorize customers by age and gender.
-
-3. Exploratory Data Analysis (EDA): I analyzed patterns and trends in sales metrics by region and demographics to uncover relationships.
-
-4. Trend Analysis: I examined sales trends over time, focusing on contributions from different age groups and genders.
-
-5. Pattern Recognition: I used data visualization to highlight hidden patterns in customer behavior and purchasing decisions.
-
-6. Actionable Insights: I presented findings to the Aventa Group, offering insights to inform marketing strategies and enhance customer engagement.
-
-This structured approach enabled the Aventa Group to solve their business concerns.
-
-**How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and sales.**
-
-![image](Daxxon Business Performance Dashboard (Excel).PNG)
-
-Tech Stack: EXCEL.
-
-I assisted Daxxon Company in uncovering hidden metrics within their business data, leading to a 45% increase in revenue and quantity sold by focusing on the following insights:
-
-City Sales Performance: I analyzed sales data by city to identify top-performing regions, allowing Daxxon to target marketing efforts effectively.
-
-
-1- Managers Evaluation: I evaluated manager performance metrics, highlighting effective strategies and areas for improvement, which helped optimize team productivity.
-
-
-2- Payment Method Analysis: By examining payment methods, I identified preferences that influenced customer purchasing behavior, enabling tailored payment options.
-
-
-3- Purchase Type Insights: I categorized purchase types to understand customer preferences, leading to targeted promotions that boosted sales.
-
-
-4- Quantity Metrics: I analyzed quantity sold metrics to identify trends, helping the company adjust inventory and sales strategies accordingly.
-
-
-5- Revenue Generation Timing: I pinpointed periods when Daxxon generated the highest revenue, allowing for strategic planning of sales campaigns during peak times.
-
-Through these data insights, Daxxon company was able to make informed decisions that significantly enhanced their performance, resulting in a substantial increase in both revenue and quantity sold.
-
-
-**PBI - Enhancing Business Performance with Exploratory Data Analysis in Power BI.**
+**Case Study 3 - Enterprise Business Performance Intelligence Dashboard**
 
 ![image](PBI - Business Performance Overview - DATAHOUSE-NG..PNG)
 
-Tech Stack: POWER-BI.
 
-Using Exploratory Data Analysis (EDA) in Power BI, I discovered hidden metrics that contributed to a 35% increase in overall business performance.
+**Tech Stack:** Power BI, Power Query, DAX, Star Schema and Snowflake Modeling
 
-1- Subcategory Performance: I analyzed sales data by subcategory, identifying high-performing and underperforming segments. This insight allowed for targeted marketing and inventory adjustments.
+Data was transformed using Power Query, then modeled using a combination of star schema and snowflake schema design, supported by a comprehensive date table built for time based analysis. DAX measures powered the KPI cards, the profit margin calculation, and the seasonal, customer, and shipping breakdowns across the dashboard.
+
+**Business Problem**
+
+The business needed a centralized view of financial, operational, customer, and product performance to determine whether revenue growth was translating into sustainable profitability and operational efficiency.
+
+**Executive Summary**
+
+Using Power BI, I built an Enterprise Business Performance Dashboard that brings sales, profitability, customer segmentation, product performance, and shipping operations into one executive view.
+
+The analysis found $12.64M in sales, $1.47M in profit, and 51,290 orders, while uncovering thin profit margins, product revenue concentration, seasonal sales patterns, and clear opportunities to improve operational efficiency.
+
+**Key Insights**
+
+**Financial Performance**
+
+- Total Sales: $12.64M
+- Total Cost: $11.17M
+- Total Profit: $1.47M
+- Profit Margin: 11.62%
+
+Despite strong revenue, about 88% of every dollar gets absorbed by operating and product costs, which keeps profitability thin and exposed to any rise in cost.
+
+**Seasonal Sales Trends**
+
+Sales build steadily from July through December, with November and December standing out as the strongest months of the year. That points to a clear seasonal demand pattern the business can plan inventory, marketing, and staffing around.
+
+**Product Performance**
+
+- Phones: $1.7M
+- Copiers, Chairs, and Bookcases: approximately $1.5M each
+- Storage: $1.1M
+
+These five sub categories make up a large share of total revenue, which means the business depends on a relatively small group of products for most of its performance.
+
+**Customer Segmentation**
+
+- Consumer: 409
+- Corporate: 238
+- Home Office: 148
+
+Consumers make up 51.4% of the customer base, making them the largest revenue driving segment and the clearest target for retention focused initiatives.
+
+**Operational Performance**
+
+- Total Orders: 51,290
+- Products Sold: 10,292
+- Average Order Size: 3.48 products
+
+Standard Class handles the majority of shipping volume at 30,775 orders, followed by Second Class at 10,309, First Class at 7,505, and Same Day at 2,701. That volume and mix leaves real room to optimize fulfillment cost.
+
+**Profitability Trends**
+
+Profit margins move up and down throughout the year even when sales activity stays steady, which points to margin pressure from product mix, operational cost, and pricing strategy rather than a demand problem.
+
+**Recommendations**
+
+1. Shift sales focus toward high margin products such as Phones and Copiers to improve profitability without needing more sales volume.
+2. Increase inventory and marketing investment ahead of the November and December peak to capture more of the seasonal demand.
+3. Build out corporate customer acquisition to reduce dependence on the consumer segment and diversify revenue.
+4. Compare delivery cost across First Class, Second Class, Standard Class, and Same Day shipping to find room to cut fulfillment cost.
+5. Track profit margin by category and product on an ongoing basis so margin erosion gets caught early.
+6. Introduce Customer Lifetime Value analysis to identify the highest value customers and build retention campaigns around them.
+
+**Business Impact**
+
+This dashboard enabled leadership to:
+
+- Monitor $12.64M in revenue and $1.47M in profit in one view.
+- Track performance across 51,290 orders and 10,292 products sold.
+- Identify Phones, Copiers, Chairs, Bookcases, and Storage as the categories driving most of total revenue.
+- See that Consumers make up 51.4% of the customer base, the largest concentration in the customer mix.
+- Move from scattered reports to one consistent source for sales, cost, and profit decisions.
+
+**Business Impact Statement**
+
+I built a Power BI Enterprise Business Performance Dashboard that brings financial, customer, product, and operational metrics into one place. The analysis covered $12.64M in sales, identified an 11.62% profit margin, and evaluated 51,290 orders across four shipping channels, while surfacing specific ways to improve profitability through product mix, customer segmentation, and shipping efficiency.
 
 
-2- Identifying Least Profitable Periods: I calculated the least profitable periods by examining sales and profit trends over time. This analysis helped the company recognize and address seasonal dips in performance.
-
-
-3- Customer Analysis: I conducted a detailed customer analysis to segment customers based on purchasing behavior, preferences, and profitability. This understanding enabled personalized marketing strategies to enhance customer engagement.
-
-
-4- Shipping Breakdown: I examined shipping data to identify cost patterns and delivery times, allowing for optimization of shipping processes and reduction of costs associated with logistics.
-
-
-5- Sales Performance Analysis: I evaluated sales performance in relation to revenue, profit, and average sales metrics. This comprehensive view provided insights into overall business health and areas for improvement.
-
-
-Through these EDA techniques in Power BI, I uncovered critical metrics that informed strategic decisions, ultimately leading to a significant boost in business performance.
 
 
 **Delivered 6000 retail audit for Pladis Global across 6 States in Nigeria using Kobo Toolbox for data collection & data aggregation.**

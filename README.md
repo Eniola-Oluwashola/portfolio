@@ -48,10 +48,13 @@ I'm looking for a full-time, remote Data Analyst or Business Analyst role where 
 - **Problem Diagnosis** — comfortable sitting with ambiguous or incomplete data and figuring out what question it can actually answer
 - **Attention to Detail** — a data-collection background means I catch quality issues before they become a dashboard's bad assumption
 
+
+
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-**Sales Performance Diagnostic & Revenue Optimization (Excel Case Study): A Multi-Dimensional Business Intelligence Analysis of Revenue Trends, Sales Team Effectiveness, Product Performance, and Geographic Market Contribution.**
+
+**Case Study 1 - Executive Sales Analytics Dashboard: Revenue Optimization and Performance Intelligence.**
 
 ![image](THE SYNTAX GROUP DASHBOARD..jpeg)
 
@@ -132,63 +135,99 @@ This analysis:
 I built an Excel-based Sales Performance Dashboard to track revenue trends, sales team effectiveness, product performance, and market contribution. The dashboard surfaced a 33.2% revenue decline against a flat 1.8% drop in volume, a 96.8% gap between the top and bottom sales reps, and a 111% revenue gap between the strongest and weakest markets, then converted those findings into a clear set of recommendations for revenue recovery and stronger sales execution.
 
 
-**How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and sales.**
 
-![image](Daxxon Business Performance Dashboard (Excel).PNG)
+**Case Study 2 - Enterprise Customer Retention Intelligence Using RFM Analytics**
 
-Tech Stack: EXCEL.
-
-I assisted Daxxon Company in uncovering hidden metrics within their business data, leading to a 45% increase in revenue and quantity sold by focusing on the following insights:
-
-City Sales Performance: I analyzed sales data by city to identify top-performing regions, allowing Daxxon to target marketing efforts effectively.
+![image](The Referral Rock - Advanced Enterprise RFM Solution..JPG)
 
 
-1- Managers Evaluation: I evaluated manager performance metrics, highlighting effective strategies and areas for improvement, which helped optimize team productivity.
+**Tech Stack:** Excel, Power Query, Power Pivot, DAX, PivotTables, Conditional Formatting, Data Modelling.
+
+Customer data was transformed and loaded using Power Query, then modeled in Power Pivot. RFM scores were calculated using the PERCENTILE function on a 1 to 10 scale for recency, frequency, and monetary value, then combined to classify customers into High Value, Active, At Risk, and Churned segments. DAX measures powered the year over year revenue comparison and the segment level metrics, while PivotTables and conditional formatting were used to build out the dashboard. I also did a data modelling using the star-schema and snowflakes.
+
+**Business Problem**
+
+The business lacked visibility into customer value, churn risk, and revenue concentration, even as overall revenue declined year over year. Leadership needed a clear way to identify high value customers, reduce churn, and uncover growth opportunities through customer segmentation.
+
+**Executive Summary**
+
+Using Excel and the RFM (Recency, Frequency, Monetary) framework, I built a Customer Retention Intelligence Dashboard that analyzed 1,794 customers across a five year period from 2019 to 2024. Total revenue stood at $6.44M, down 6.3% from the prior year. The analysis identified $1.55M in revenue at churn risk, uncovered 94 upsell opportunities, and showed that a small segment of customers drives most of the business's revenue.
+
+**Key Insights**
+
+**Revenue Is Declining Year Over Year**
+
+- Total Revenue: $6,440,115 ($6.44M)
+- Year over Year Change: -6.3% vs Prior Year
+
+Revenue fell 6.3% compared to the prior year, the exact trend this RFM analysis was built to explain and reverse.
+
+**High Value Customers Drive a Third of Revenue**
+
+- Revenue: $2.20M
+- Customers: 334
+- Revenue Contribution: 34.22%
+
+Only 18.62% of customers generate over a third of total revenue, which makes retaining this group a top priority.
+
+**At Risk Customers Carry $1.55M in Exposure**
+
+- Revenue at Risk: $1.55M
+- Customers: 580
+- Revenue Share: 24.10%
+
+Nearly one third of customers, 32.33% of the base, show signs of declining engagement, creating a real revenue recovery opportunity if they are re engaged before they churn.
+
+**Churn Has Already Cost the Business $484,741**
+
+- Churned Customers: 362
+- Revenue Lost: $484,741
+
+More than 20% of customers, 20.18% of the base, have already disengaged, taking nearly half a million dollars in revenue with them.
+
+**Revenue Is Concentrated Among a Small Group**
+
+- Top 20% of customers generate 67.1% of total revenue
+
+The business follows a classic Pareto pattern, which means it depends heavily on a relatively small group of high value customers.
+
+**Upsell Opportunities Exist**
+
+- 94 customers were identified as strong candidates for upselling and cross selling.
+
+These 94 customers already show strong engagement, which makes them the fastest path to additional revenue without acquiring new customers.
+
+**Churn Spiked in February and Eased in January**
+
+- Highest Churn Increase: February (+18.0%)
+- Largest Churn Reduction: January (-8.9%)
+
+Churn moves up and down throughout the year, which means retention campaigns need to target specific high risk months rather than running at a constant pace year round.
+
+**Recommendations**
+
+1. Build a VIP retention program for the high value customers who contribute 34.22% of revenue.
+2. Launch targeted recovery campaigns for the 580 at risk customers representing $1.55M in revenue.
+3. Set up predictive churn monitoring with automated retention alerts.
+4. Run personalized upsell campaigns for the 94 high potential customers.
+5. Reduce revenue concentration risk by increasing engagement among Active and At Risk customers, the two largest segments outside the High Value group.
+
+**Business Impact**
+
+This dashboard enabled the business to:
+
+- Identify $1.55M in revenue exposed to churn risk.
+- Quantify $484,741 in lost revenue from customers who already churned.
+- Discover 94 immediate upsell opportunities.
+- Reveal that 67.1% of revenue comes from the top 20% of customers.
+- Segment 1,794 customers into four groups, High Value, Active, At Risk, and Churned, each with a clear retention or growth action attached.
+
+**Business Impact Statement**
+
+I built an RFM based Customer Retention Intelligence Dashboard in Excel that segmented 1,794 customers into four groups based on recency, frequency, and monetary value. The dashboard identified $1.55M in at risk revenue, uncovered 94 upsell opportunities, and showed that the top 20% of customers generate 67.1% of total revenue. It gives leadership a clear view of where to focus retention efforts and where revenue is most exposed, backed by segment level evidence rather than guesswork.
 
 
-2- Payment Method Analysis: By examining payment methods, I identified preferences that influenced customer purchasing behavior, enabling tailored payment options.
 
-
-3- Purchase Type Insights: I categorized purchase types to understand customer preferences, leading to targeted promotions that boosted sales.
-
-
-4- Quantity Metrics: I analyzed quantity sold metrics to identify trends, helping the company adjust inventory and sales strategies accordingly.
-
-
-5- Revenue Generation Timing: I pinpointed periods when Daxxon generated the highest revenue, allowing for strategic planning of sales campaigns during peak times.
-
-Through these data insights, Daxxon company was able to make informed decisions that significantly enhanced their performance, resulting in a substantial increase in both revenue and quantity sold.
-
-*A glimpse of some of the projects I've been working on.*   T
-
-**How I helped GREENWISH MEDICALS to provide actionable insights into patient demographics, health 
-conditions, and trends in admissions using their raw medical data, thereby increasing operational efficiency by 75%.**
-
-![image](New Greenwish Medical Records Dashboard.PNG)
-
-Tech Stack: EXCEL.
-
-As a data analyst, I was tasked with working on a healthcare dataset to develop an interactive Excel dashboard aimed at analyzing and visualizing key healthcare metrics. 
-This dashboard is designed to deliver actionable insights into patient demographics, health conditions, trends in admissions, and enhancing overall operational efficiency by 75%.
-
-
-In creating an interactive Excel dashboard for analyzing key healthcare metrics, I followed a structured approach:
-
-1- Data Collection and Preparation: I performed data cleaning using the power query editor to ensure accuracy, and transformed the data for analysis by categorizing health conditions and creating calculated metrics.
-
-2- Data Analysis: I conducted exploratory data analysis (EDA) to identify patterns and selected essential metrics for the dashboard, including patient demographics and admission trends.
-
-3- I derived the KPIs by writing DAX Measures in Excel's power pivot engine. 
-
-4- Dashboard Design: I designed a user-friendly layout, incorporating interactive features like slicers and drop-down menus to enhance user engagement and facilitate data filtering.
-
-5- Data Visualization: I utilized various chart types to visualize the data effectively and applied conditional formatting to highlight key trends and insights.
-
-6- Testing and Feedback: After the initial version was completed, I conducted user testing to gather feedback and made iterative improvements based on stakeholder input.
-
-7- Finalization and Presentation: I created documentation for user navigation and presented the final dashboard to stakeholders, demonstrating its features and utility in making data-driven decisions.
-
-Through this methodical process, I successfully developed a dashboard that provides valuable insights into patient demographics, health conditions, and admission trends, ultimately enhancing decision-making in healthcare management.
 
 **The Aventa Group Transactional Metrics Analysis.**
 

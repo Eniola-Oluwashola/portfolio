@@ -51,101 +51,85 @@ I'm looking for a full-time, remote Data Analyst or Business Analyst role where 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-**Sales Performance Diagnostic & Revenue Optimization: A Multi-Dimensional Business Intelligence Analysis of Revenue Trends, Sales Team Effectiveness, Product Performance, and Geographic Market Contribution.**
+**Sales Performance Diagnostic & Revenue Optimization (Excel Case Study): A Multi-Dimensional Business Intelligence Analysis of Revenue Trends, Sales Team Effectiveness, Product Performance, and Geographic Market Contribution.**
 
 ![image](THE SYNTAX GROUP DASHBOARD..jpeg)
 
-**Tech Stack: EXCEL.**
+
+**Tech Stack:** Power Query, Power Pivot, DAX, Excel (PivotTables, Conditional Formatting, Charts & Dashboard Design)
+
+Data was cleaned, transformed and loaded using Power Query, then modeled in Power Pivot using a star schema with a dedicated date table built for time series analysis. DAX measures powered the month over month calculations and the gap analysis behind each KPI, and Excel PivotTables, conditional formatting, and native charting tools brought the executive dashboard to life.
 
 **Business Problem**
 
-The business experienced declining revenue despite ongoing sales activity. Leadership needed visibility into sales performance, product contribution, market effectiveness, and revenue trends to identify growth opportunities and performance gaps.
+The business experienced declining revenue despite continued sales activity. Leadership needed visibility into sales performance, product contribution, market effectiveness, and revenue trends to identify growth opportunities and close performance gaps.
 
 **Executive Summary**
 
-Using Excel, I developed a Sales Performance Dashboard to evaluate revenue trends, sales representative performance, product sales distribution, and geographic market contribution.
+Using Excel, I built a Sales Performance Dashboard to evaluate revenue trends, sales representative performance, product distribution, and geographic market contribution.
 
-The analysis revealed $454.6K in revenue from 533 units sold, while revenue declined by 8.27% MoM. The dashboard identified significant performance differences across sales reps, products, and markets, providing actionable insights to support revenue growth and operational improvement.
+The analysis showed $454.6K in revenue from 553 units sold, with revenue down 33.2% month over month while quantity sold fell only 1.8%. The dashboard exposed clear performance gaps across sales reps, products, and markets, and turned those gaps into specific, actionable steps for revenue recovery.
 
-**Key Insights:**
+**Key Insights**
 
-Revenue Performance
+**Revenue Performance**
+
 - Total Revenue: $454.6K
+- Revenue Growth: -33.2% MoM
+- Quantity Sold: 553 Units
+- Quantity Growth: -1.8% MoM
 
-- Revenue Growth: -8.27% MoM
-
-- Quantity Sold: 533 Units
-
-- Quantity Growth: -1.60% MoM
-
-Revenue declined significantly faster than sales volume, suggesting pricing, discounting, or product mix issues.
+Revenue fell more than eighteen times faster than unit volume. That gap points to pricing, discounting, or product mix changes as the driver of the decline, not a drop in demand.
 
 **Monthly Revenue Trend**
 
--Highest Revenue Month: June ($60,679).
+- Highest Revenue Month: June ($60,679)
+- Lowest Revenue Month: August ($13,221)
 
--Lowest Revenue Month: August ($48,221).
+Revenue dropped 78.2% from June to August. A swing that steep is too large for normal seasonal variation and is worth investigating directly, whether it traces back to a stocking issue, a paused campaign, or a one-time event.
 
-Revenue dropped by 20.5% between the strongest and weakest months, highlighting seasonal or operational fluctuations.
+**Sales Rep Performance**
 
-**Sales Rep Performance:**
+- Top Performer: David ($112,507)
+- Lowest Performer: John ($57,175)
 
--Top Performer: Jacob ($112,397).
+David generated 96.8% more revenue than John, the lowest-performing rep. That gap is large enough to justify documenting David's approach and sharing it across the team.
 
--Lowest Performer: John ($27,172).
+**Market Performance**
 
-Jacob generated 313% more revenue than the lowest-performing sales representative, indicating a substantial opportunity for performance coaching and knowledge sharing.
+- Highest Revenue Market: USA ($124,424)
+- Lowest Revenue Market: Canada ($58,982)
 
-**Market Performance:**
+The USA contributed 27.37% of total revenue and generated 111% more revenue than Canada. That creates a growth opportunity in the USA, but also a concentration risk if the business leans too heavily on a single market.
 
--Highest Revenue Market: USA ($124,424).
+**Product Performance**
 
--Lowest Revenue Market: Canada ($58,982).
+- Top Product: Headphones (144 Units)
+- Lowest Product: Smartwatch (83 Units)
 
-The USA contributed 27.17% of total revenue and generated more than double Canada's revenue, creating both growth opportunities and market concentration risk.
+Headphones made up 26.04% of total sales volume, the highest share of any product, while Smartwatch trailed at 15.01%, the lowest. That gap points to room for rebalancing the product portfolio.
 
-**Product Performance:**
+**Recommendations**
 
--Top Product: Headphones (148 Units).
+1. Investigate the pricing, discounting, and product mix changes behind the 33.2% revenue decline.
+2. Document David's sales approach and share it across the team to close the gap with lower-performing reps.
+3. Increase investment in the USA, the strongest market, while building a clear growth plan for Canada.
+4. Prioritize inventory and marketing spend on the top-selling products: Headphones, Laptop, and Phone.
+5. Review Smartwatch and Tablet, the two lowest-selling products, for repositioning, bundling, or discontinuation.
 
--Lowest Product: Tablet (21 Units).
+**Business Impact**
 
-Headphones accounted for 27.8% of total sales volume, while Tablets contributed only 3.9%, suggesting opportunities for portfolio optimization.
+This analysis:
 
-**Recommendations:**
+- Identified a 33.2% revenue decline before it could grow into a larger business risk.
+- Revealed a 96.8% performance gap between the top and bottom sales representatives.
+- Highlighted a 111% revenue gap between the USA and Canada, the highest and lowest performing markets.
+- Exposed a 73.5% volume gap between Headphones and Smartwatch, showing both a concentration risk and an opportunity to rebalance the product mix.
+- Turned these findings into specific recommendations for revenue recovery and stronger sales execution.
 
-1 - Investigate pricing, discounting, and product mix drivers behind the 8.27% revenue decline.
+**Business Impact Statement**
 
-2 - Replicate top-performing sales strategies across the broader sales team.
-
-3 - Increase investment in high-performing markets such as the USA while developing growth strategies for underperforming regions.
-
-4 - Prioritize inventory and marketing efforts around high-performing products, including Headphones, Laptops, and Phones.
-
-5 - Review underperforming products for repositioning, bundling, or discontinuation.
-
-**Business Impact:**
-
-**This analysis:**
-
--Identified an 8.27% revenue decline before it became a larger business risk.
-
--Revealed a 313% performance gap between top and bottom sales representatives.
-
--Highlighted a 111% revenue difference between major markets.
-
--Exposed product concentration risks and growth opportunities.
-
--Provided data-driven recommendations to improve revenue growth and sales effectiveness.
-
-**Business Impact Statement:**
-
-I built an executive-level Excel Sales Performance Dashboard that analyzed revenue trends, sales team effectiveness, product performance, and geographic contribution. 
-
-The solution uncovered declining revenue trends, identified key growth markets, revealed a 313% sales performance gap in total, and provided actionable recommendations to support revenue optimization and strategic decision-making.
-
-
-
+I built an Excel-based Sales Performance Dashboard to track revenue trends, sales team effectiveness, product performance, and market contribution. The dashboard surfaced a 33.2% revenue decline against a flat 1.8% drop in volume, a 96.8% gap between the top and bottom sales reps, and a 111% revenue gap between the strongest and weakest markets, then converted those findings into a clear set of recommendations for revenue recovery and stronger sales execution.
 
 
 **How I helped Daxxon company to discover hidden metrics in their business data that influenced their performance by 45% in revenue and sales.**

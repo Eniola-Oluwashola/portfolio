@@ -232,7 +232,7 @@ I built an RFM based Customer Retention Intelligence Dashboard in Excel that seg
 
 **Case Study 3 - Supply Chain and Logistics Performance Analysis**
 
-![image](PBI - Business Performance Overview - DATAHOUSE-NG..PNG)
+![image](Supply Chain & Logistics Performance Analysis..JPG)
 
 
 **Tech Stack:** Power BI, Power Query, DAX, Star Schema and Snowflake Modeling, Comprehensive Date Table

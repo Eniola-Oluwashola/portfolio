@@ -428,7 +428,7 @@ I built a Medical Records Dashboard for Greenwish Medicals that brings patient d
 **Case Study 5 - SQL Analysis of the Forbes Billionaires Dataset**
 
 
-![image](Pladis Project 1.jpeg)
+![image](SQL.jpeg)
 
 
 **Tech Stack:** MySQL, MySQL Workbench

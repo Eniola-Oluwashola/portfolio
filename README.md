@@ -426,26 +426,71 @@ I built a Medical Records Dashboard for Greenwish Medicals that brings patient d
 
 
 
-**Case Study 5 - Delivered 6000 retail audit for Pladis Global across 6 States in Nigeria using Kobo Toolbox for raw data collection & data aggregation.**
+**Case Study 5: Branded Retail Audits and Market Research Using Kobo Toolbox (Remotely)**
 
 ![image](Pladis Project 1.jpeg)
+
 ![image](Pladis Project 2.jpeg) 
 
-Software: KOBO TOOLBOX
+**Tech Stack:** Kobo Toolbox (remote and branded field data collection, data aggregation)
 
-### Branded Data Collectors Using Kobo Toolbox
+Using Kobo Toolbox with a branded network of field data collectors, this work delivered structured retail audit and market research data across Nigeria, remotely and at scale, for two FMCG focused clients.
 
-By utilizing Kobo Toolbox with our branded data collectors, we improve the efficiency, accuracy, and reliability of our data collection processes, supporting better decision-making and strategic planning.
+**Project 1: Pladis Global, Six State Retail Audit**
 
-**Projects Achieved With Kobo Toolbox (Data Collection & Aggregation)**:
- 
- - Delivered 6000 retail audits for Pladis Global across 6 States in Nigeria, using the Kobo Toolbox for raw data collection.
+**Business Problem**
 
-- Delivered a nationwide market research project with a new entrant (CHLOE Diaper) into the disposable diaper industry (Surveyed 350 wholesales stores, 750 retail stores, 100 Key-In-depth Interviews, 25 Focus Group Discussions) across key cities in Nigeria.
+Pladis Global needed independent, on the ground visibility into how its products were being stocked, priced, and merchandised across thousands of retail outlets spanning six Nigerian states. Head office reporting alone could not confirm whether products were actually reaching shelves as intended, or how visible they were relative to competitors in each region.
 
-- Delivered retail audit for Pladis Global Nigeria, aggregating data of approximately 5000 retail outlets in open-air markets and neighborhoods (Lagos Only) and also using the Kobo Toolbox for raw data collection.
+**Scope and Approach**
 
-- Trained over 5,000 in Data Analytics covering Data Research & Data Aggregation (Kobo Toolbox), Advanced Data Visualization. Power-BI, Excel, SQL & Tableau.
+- Outlets Audited: 6,000
+- States Covered: 6
+- Average Outlets per State: 1,000
+- Method: Branded field data collectors using Kobo Toolbox for remote raw data collection and aggregation
+
+Running 6,000 individual store level audits across six states required a process that stayed consistent no matter who collected the data or where. Kobo Toolbox standardized the survey instrument across every collector and let audit data flow back centrally in real time, keeping the dataset clean and comparable across regions instead of relying on paper based audits that are slower to consolidate and harder to verify.
+
+**Project 2: Pladis Global, Lagos Open Air Market and Neighborhood Audit**
+
+**Business Problem**
+
+Pladis Global needed to understand how its products performed specifically within Lagos's open air markets and neighborhood retail outlets, channels that operate differently from formal retail and are often underrepresented in standard distribution reporting. Without ground level data from this channel, gaps in availability or merchandising could go unnoticed even while formal retail looked fine on paper.
+
+**Scope and Approach**
+
+- Outlets Audited: approximately 5,000
+- Coverage: Lagos open air markets and neighborhood retail
+- Method: Kobo Toolbox for raw data collection
+
+This audit followed the original six state engagement, and Pladis Global's decision to commission a second, more localized project on its own is a real signal that the first audit delivered value worth building on. Together, the two Pladis engagements covered roughly 11,000 outlets across formal and informal retail channels in Nigeria.
+
+**Project 3: CHLOE Diaper, Nationwide Market Entry Research**
+
+**Business Problem**
+
+As a new entrant preparing to launch into Nigeria's disposable diaper category, CHLOE Diaper needed ground level intelligence on the existing competitive landscape, distribution channels, and trade and consumer attitudes before committing to a launch strategy. Entering an established category without this intelligence risks mispricing, poor distribution choices, or misreading what retailers and consumers actually want.
+
+**Scope and Approach**
+
+- Wholesale Stores Surveyed: 350
+- Retail Stores Surveyed: 750
+- Key Informant Interviews: 100
+- Focus Group Discussions: 25
+- Method: Kobo Toolbox for remote data collection and aggregation across key Nigerian cities
+
+This project combined quantitative store level coverage with qualitative depth, reaching 1,100 wholesale and retail outlets alongside 125 direct qualitative engagements through interviews and focus groups. That mix gave CHLOE Diaper both the breadth to map the existing market and the depth to understand why retailers and consumers behave the way they do, the kind of input a launch strategy needs before money gets committed to distribution and marketing.
+
+**Business Impact**
+
+- Kobo Toolbox enabled remote, branded data collection at a scale that would be difficult to manage reliably with paper based methods, across three engagements and more than 12,200 combined data points.
+- Pladis Global returned for a second, more targeted audit after the first one, a real signal of trust in the data and the process behind it.
+- CHLOE Diaper entered a new category backed by both quantitative market mapping and qualitative trade and consumer insight rather than guesswork.
+
+**Business Impact Statement**
+
+Across three engagements for Pladis Global and CHLOE Diaper, I used Kobo Toolbox with a branded field team to deliver over 12,100 retail and wholesale audits and surveys across Nigeria, plus 125 qualitative engagements through key informant interviews and focus group discussions, all collected and aggregated remotely. The work gave a global FMCG company outlet level visibility into both formal and informal retail channels, and gave a new market entrant the ground level intelligence needed to enter a competitive category with evidence instead of guesswork.
+
 
 
 

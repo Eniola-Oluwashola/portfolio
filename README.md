@@ -230,90 +230,103 @@ I built an RFM based Customer Retention Intelligence Dashboard in Excel that seg
 
 
 
-**Case Study 3 - Enterprise Business Performance Intelligence Dashboard**
+**Case Study 3 - Supply Chain and Logistics Performance Analysis**
 
 ![image](PBI - Business Performance Overview - DATAHOUSE-NG..PNG)
 
 
-**Tech Stack:** Power BI, Power Query, DAX, Star Schema and Snowflake Modeling
+**Tech Stack:** Power BI, Power Query, DAX, Star Schema and Snowflake Modeling, Comprehensive Date Table
 
-Data was transformed using Power Query, then modeled using a combination of star schema and snowflake schema design, supported by a comprehensive date table built for time based analysis. DAX measures powered the KPI cards, the profit margin calculation, and the seasonal, customer, and shipping breakdowns across the dashboard.
 
 **Business Problem**
 
-The business needed a centralized view of financial, operational, customer, and product performance to determine whether revenue growth was translating into sustainable profitability and operational efficiency.
+The business needed visibility into supplier reliability, on-time delivery performance, and damage rates across its supply chain to understand where shipments were falling short and which suppliers and product categories carried the most risk.
 
 **Executive Summary**
 
-Using Power BI, I built an Enterprise Business Performance Dashboard that brings sales, profitability, customer segmentation, product performance, and shipping operations into one executive view.
+I built a Supply Chain and Logistics Performance Dashboard that tracks $1.06 billion in shipment value across 4,200 shipments, broken down by supplier reliability, product category, on-time delivery, and damage rate.
 
-The analysis found $12.64M in sales, $1.47M in profit, and 51,290 orders, while uncovering thin profit margins, product revenue concentration, seasonal sales patterns, and clear opportunities to improve operational efficiency.
+The analysis found that only 34% of shipments arrive on time across the entire portfolio, a problem that holds true even for the best performing supplier and product category, while damage rates stay fairly consistent around 4% regardless of supplier or product.
 
 **Key Insights**
 
-**Financial Performance**
+**On-Time Delivery Is a Business Wide Problem**
 
-- Total Sales: $12.64M
-- Total Cost: $11.17M
-- Total Profit: $1.47M
-- Profit Margin: 11.62%
+- Total Shipments: 4,200, up 0.8% from last year
+- On Time Shipments: 1,428, down 0.8% from last year
+- On-Time Rate: 34%, down 1.6% from last year
 
-Despite strong revenue, about 88% of every dollar gets absorbed by operating and product costs, which keeps profitability thin and exposed to any rise in cost.
+Shipment volume grew slightly year over year, but on-time shipments actually fell, which means delivery performance is slipping even as the business ships more. This is not isolated to one supplier or category either, the best performing supplier still only reaches a 34.9% on-time rate, which means roughly two out of every three shipments across the portfolio arrive late.
 
-**Seasonal Sales Trends**
+**FastTrack Logistics Leads on Reliability**
 
-Sales build steadily from July through December, with November and December standing out as the strongest months of the year. That points to a clear seasonal demand pattern the business can plan inventory, marketing, and staffing around.
+- Shipments Handled: 519
+- Shipment Value: $128.9M
+- On-Time Rate: 34.9%
 
-**Product Performance**
+FastTrack Logistics delivers the highest on-time rate in the portfolio at 34.9%, only slightly above the 34% average, which shows that even the strongest supplier is operating in roughly the same underperforming range as everyone else.
 
-- Phones: $1.7M
-- Copiers, Chairs, and Bookcases: approximately $1.5M each
-- Storage: $1.1M
+**SwiftCargo NG Underperforms on Both Speed and Damage**
 
-These five sub categories make up a large share of total revenue, which means the business depends on a relatively small group of products for most of its performance.
+- On-Time Rate: 32.4%, the worst in the portfolio
+- Damage Rate: 4.3%, the highest in the portfolio, equal to about $43.1M in damaged goods
 
-**Customer Segmentation**
+SwiftCargo NG ranks worst on both on-time rate and damage rate, but the gap between SwiftCargo NG and the best supplier is only 2.5 percentage points on time and 0.6 percentage points on damage, which points to company wide inconsistency rather than one bad supplier.
 
-- Consumer: 409
-- Corporate: 238
-- Home Office: 148
+**Damage Rates Stay Tight Across Suppliers and Products**
 
-Consumers make up 51.4% of the customer base, making them the largest revenue driving segment and the clearest target for retention focused initiatives.
+- Highest Supplier Damage Rate: SwiftCargo NG, 4.3%
+- Lowest Supplier Damage Rate: Cross Border Express, 3.7%
+- Highest Product Damage Rate: Agro-commodities, 4.21%
+- Lowest Product Damage Rate: Industrial Parts, 3.87%
 
-**Operational Performance**
+Damage rates cluster tightly around the 4.1% portfolio average no matter which supplier or product is involved, which points to a shared operational cause such as handling or packaging rather than a single weak link.
 
-- Total Orders: 51,290
-- Products Sold: 10,292
-- Average Order Size: 3.48 products
+**Textiles Has the Worst On-Time Performance of Any Product Category**
 
-Standard Class handles the majority of shipping volume at 30,775 orders, followed by Second Class at 10,309, First Class at 7,505, and Same Day at 2,701. That volume and mix leaves real room to optimize fulfillment cost.
+- Textiles: 29.73% on time
+- Industrial Parts: 33.88% on time
+- Pharmaceuticals: 34.55% on time
+- Electronics: 34.71% on time
+- Agro-commodities: 34.78% on time
+- FMCG: 36.68% on time
 
-**Profitability Trends**
+Textiles shipments arrive late about 7 out of every 10 times, the worst on-time rate of any category, while even FMCG, the best performing category, still arrives late more than 6 out of every 10 times.
 
-Profit margins move up and down throughout the year even when sales activity stays steady, which points to margin pressure from product mix, operational cost, and pricing strategy rather than a demand problem.
+**Agro-commodities Carries the Highest Product Damage Risk**
+
+- Agro-commodities: 4.21%
+- FMCG: 4.17%
+- Pharmaceuticals: 4.10%
+- Electronics: 4.06%
+- Textiles: 3.99%
+- Industrial Parts: 3.87%
+
+Agro-commodities combines a high damage rate with one of the stronger on-time rates, while Textiles shows the opposite pattern, holding up fine on damage but falling badly on speed, which means damage and delay are likely driven by different root causes.
 
 **Recommendations**
 
-1. Shift sales focus toward high margin products such as Phones and Copiers to improve profitability without needing more sales volume.
-2. Increase inventory and marketing investment ahead of the November and December peak to capture more of the seasonal demand.
-3. Build out corporate customer acquisition to reduce dependence on the consumer segment and diversify revenue.
-4. Compare delivery cost across First Class, Second Class, Standard Class, and Same Day shipping to find room to cut fulfillment cost.
-5. Track profit margin by category and product on an ongoing basis so margin erosion gets caught early.
-6. Introduce Customer Lifetime Value analysis to identify the highest value customers and build retention campaigns around them.
+1. Treat the 34% on-time rate as a company wide issue rather than a supplier specific one, since even the best supplier and best product category still miss the on-time target most of the time.
+2. Investigate the root cause of late Textiles shipments specifically, given a 29.73% on-time rate means most of this category arrives late.
+3. Audit packaging and handling processes across all suppliers, since the consistently tight 3.7% to 4.3% damage rate range points to a shared process issue rather than one supplier's fault.
+4. Review SwiftCargo NG's operations directly, since it ranks worst on both on-time rate and damage rate, even though the gap to other suppliers is small.
+5. Study what FastTrack Logistics does differently to reach a 34.9% on-time rate, and test whether that approach can be applied to other suppliers.
+6. Set a clear on-time delivery target and track progress against it monthly, since the current 34% rate leaves substantial room for improvement before reaching an acceptable service level.
 
 **Business Impact**
 
-This dashboard enabled leadership to:
+This dashboard enabled the business to:
 
-- Monitor $12.64M in revenue and $1.47M in profit in one view.
-- Track performance across 51,290 orders and 10,292 products sold.
-- Identify Phones, Copiers, Chairs, Bookcases, and Storage as the categories driving most of total revenue.
-- See that Consumers make up 51.4% of the customer base, the largest concentration in the customer mix.
-- Move from scattered reports to one consistent source for sales, cost, and profit decisions.
+- Track $1.06 billion in shipment value across 4,200 shipments.
+- Identify that only 34% of shipments arrive on time across the entire portfolio.
+- Pinpoint SwiftCargo NG as the weakest supplier on both on-time rate and damage rate.
+- Reveal that Textiles has the worst on-time performance of any product category at 29.73%.
+- Show that damage rates stay consistent across suppliers and products, pointing to a shared operational cause.
+- Replace fragmented shipment tracking with one view of supplier, product, and delivery performance.
 
 **Business Impact Statement**
 
-I built a Power BI Enterprise Business Performance Dashboard that brings financial, customer, product, and operational metrics into one place. The analysis covered $12.64M in sales, identified an 11.62% profit margin, and evaluated 51,290 orders across four shipping channels, while surfacing specific ways to improve profitability through product mix, customer segmentation, and shipping efficiency.
+I built a Supply Chain and Logistics Performance Dashboard that tracks $1.06 billion in shipment value and 4,200 shipments across supplier, product, on-time delivery, and damage rate metrics. The analysis found that only 34% of shipments arrive on time across the entire portfolio, a gap that holds even for the best performing supplier and product category, while damage rates stay consistent around 4% regardless of supplier or product. It gives logistics leadership a clear view of where delivery and damage problems start, and a way to track progress as fixes get put in place.
 
 
 
@@ -379,7 +392,7 @@ Atlanta alone accounts for more than half of all admissions across the three cit
 
 Average credit score climbs with education level, with Master's degree patients averaging 136 points higher than patients with only a high school education, a gap that likely reflects broader income and financial stability differences across these groups.
 
-**Admission Volume Swings Sharply Month to Month**
+**Admission Volume Changes Month to Month**
 
 - Highest Month: January (157 admissions)
 - Lowest Month: April (99 admissions)
@@ -413,10 +426,10 @@ I built a Medical Records Dashboard for Greenwish Medicals that brings patient d
 
 
 
-**Delivered 6000 retail audit for Pladis Global across 6 States in Nigeria using Kobo Toolbox for data collection & data aggregation.**
+**Case Study 5 - Delivered 6000 retail audit for Pladis Global across 6 States in Nigeria using Kobo Toolbox for raw data collection & data aggregation.**
 
 ![image](Pladis Project 1.jpeg)
-![image](Pladis Project 2.jpeg)
+![image](Pladis Project 2.jpeg) 
 
 Software: KOBO TOOLBOX
 

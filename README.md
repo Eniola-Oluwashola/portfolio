@@ -120,15 +120,6 @@ Headphones made up 26.04% of total sales volume, the highest share of any produc
 4. Prioritize inventory and marketing spend on the top-selling products: Headphones, Laptop, and Phone.
 5. Review Smartwatch and Tablet, the two lowest-selling products, for repositioning, bundling, or discontinuation.
 
-**Business Impact**
-
-This analysis:
-
-- Identified a 33.2% revenue decline before it could grow into a larger business risk.
-- Revealed a 96.8% performance gap between the top and bottom sales representatives.
-- Highlighted a 111% revenue gap between the USA and Canada, the highest and lowest performing markets.
-- Exposed a 73.5% volume gap between Headphones and Smartwatch, showing both a concentration risk and an opportunity to rebalance the product mix.
-- Turned these findings into specific recommendations for revenue recovery and stronger sales execution.
 
 **Business Impact Statement**
 
@@ -211,16 +202,7 @@ Churn moves up and down throughout the year, which means retention campaigns nee
 3. Set up predictive churn monitoring with automated retention alerts.
 4. Run personalized upsell campaigns for the 94 high potential customers.
 5. Reduce revenue concentration risk by increasing engagement among Active and At Risk customers, the two largest segments outside the High Value group.
-
-**Business Impact**
-
-This dashboard enabled the business to:
-
-- Identify $1.55M in revenue exposed to churn risk.
-- Quantify $484,741 in lost revenue from customers who already churned.
-- Discover 94 immediate upsell opportunities.
-- Reveal that 67.1% of revenue comes from the top 20% of customers.
-- Segment 1,794 customers into four groups, High Value, Active, At Risk, and Churned, each with a clear retention or growth action attached.
+   
 
 **Business Impact Statement**
 
@@ -312,17 +294,7 @@ Agro-commodities combines a high damage rate with one of the stronger on-time ra
 4. Review SwiftCargo NG's operations directly, since it ranks worst on both on-time rate and damage rate, even though the gap to other suppliers is small.
 5. Study what FastTrack Logistics does differently to reach a 34.9% on-time rate, and test whether that approach can be applied to other suppliers.
 6. Set a clear on-time delivery target and track progress against it monthly, since the current 34% rate leaves substantial room for improvement before reaching an acceptable service level.
-
-**Business Impact**
-
-This dashboard enabled the business to:
-
-- Track $1.06 billion in shipment value across 4,200 shipments.
-- Identify that only 34% of shipments arrive on time across the entire portfolio.
-- Pinpoint SwiftCargo NG as the weakest supplier on both on-time rate and damage rate.
-- Reveal that Textiles has the worst on-time performance of any product category at 29.73%.
-- Show that damage rates stay consistent across suppliers and products, pointing to a shared operational cause.
-- Replace fragmented shipment tracking with one view of supplier, product, and delivery performance.
+   
 
 **Business Impact Statement**
 
@@ -408,16 +380,6 @@ January runs 58.6% higher than the April low point, a swing large enough to affe
 5. Use the relationship between education level and credit score to tailor billing communication and financial counseling by patient group.
 6. Review admission and outcome patterns by blood type over time to see whether differences across groups are meaningful or just a result of smaller sample sizes for rarer blood types.
 
-**Business Impact**
-
-This dashboard enabled hospital leadership to:
-
-- Track 1,656 patient records across six years from 2019 to 2024.
-- Identify that 77% of patients report good or excellent health outcomes.
-- Reveal that Atlanta accounts for 59% of total admissions across three cities.
-- Surface a 58.6% swing in admissions between the slowest month, April, and the busiest, January.
-- Connect education level to average credit score for more targeted patient communication.
-- Replace scattered reports with one consistent view of demographics, outcomes, and admission patterns.
 
 **Business Impact Statement**
 

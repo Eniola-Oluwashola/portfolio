@@ -393,7 +393,7 @@ I built a Medical Records Dashboard for Greenwish Medicals that brings patient d
 ![image](SQL.jpeg)
 
 
-**Tech Stack:** MySQL, MySQL Workbench
+**Tech Stack:** MySQL Workbench
 
 
 **Business Problem**

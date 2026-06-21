@@ -59,7 +59,7 @@ I'm looking for a full-time, remote Data Analyst or Business Analyst role where 
 ![image](THE SYNTAX GROUP DASHBOARD..jpeg)  
 
 
-**Tech Stack:** Power Query, Power Pivot, DAX, Excel (PivotTables, Conditional Formatting, Charts & Dashboard Design)
+**Tech Stack:** Excel (PivotTables, Conditional Formatting, Charts & Dashboard Design),Power Query, Power Pivot, DAX, Data Modelling.
 
 Data was cleaned, transformed and loaded using Power Query, then modeled in Power Pivot using a star schema with a dedicated date table built for time series analysis. DAX measures powered the month over month calculations and the gap analysis behind each KPI, and Excel PivotTables, conditional formatting, and native charting tools brought the executive dashboard to life.
 

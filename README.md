@@ -3,7 +3,7 @@
 
 I'm Eniola Oluwashola, a professional data analyst, visualizaton specialist, educator, data researcher, data aggregator and a  data collector. 
 
-I'm a Microsoft Certified Power BI Analyst and a Business Analyst with a background most "data people" don't have: I've collected the data myself; running large-scale FMCG retail audits and market research fieldwork, before I ever built a dashboard from it. That ground-up view shapes how I work now. I don't just visualize numbers; I question where they came from, what's missing, and what decision they're meant to support.
+I'm a Microsoft Certified Power BI Data Analyst Associate and a Business Analyst with a background most "data people" don't have: I've collected the data myself; running large-scale FMCG retail audits and market research fieldwork, before I ever built a dashboard from it. That ground-up view shapes how I work now. I don't just visualize numbers; I question where they came from, what's missing, and what decision they're meant to support.
 
 I'm currently open to a full-time remote Data Analyst role in operations, international development, sales & customers or fintech, and ready to bring all of this directly to one team.
 
